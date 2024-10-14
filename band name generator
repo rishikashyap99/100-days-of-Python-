@@ -1,0 +1,4 @@
+print("Welcome to the game of Band Generator")
+City= input("Enter the name of Your Birth City\n")
+Nick= input("Enter your nick name\n")
+print( "Your Band name could be ", Nick + " " + City)
